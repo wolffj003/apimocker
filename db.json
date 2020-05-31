@@ -1,30 +1,33 @@
- {
-  "success": {
-    "total": 1
-  },
-  "contents": {
-    "quotes": [
-      {
-        "quote": "If you want to make your dreams come true, the first thing you have to do is wake up.",
-        "length": "85",
-        "author": "J.M. Power",
-        "tags": [
-          "dream",
-          "inspire"
-        ],
-        "category": "inspire",
-        "language": "en",
-        "date": "2020-05-31",
-        "permalink": "https://theysaidso.com/quote/jm-power-if-you-want-to-make-your-dreams-come-true-the-first-thing-you-have-to-d",
-        "id": "ITpzQAy0WOMy0rJZqbi6rQeF",
-        "background": "https://theysaidso.com/img/qod/qod-inspire.jpg",
-        "title": "Inspiring Quote of the day"
-      }
-    ]
-  },
-  "baseurl": "https://theysaidso.com",
-  "copyright": {
-    "year": 2022,
-    "url": "https://theysaidso.com"
+{"quotes": [
+  {
+    "success": {
+      "total": 1
+    },
+    "contents": {
+      "quotes": [
+        {
+          "quote": "If you want to make your dreams come true, the first thing you have to do is wake up.",
+          "length": "85",
+          "author": "J.M. Power",
+          "tags": [
+            "dream",
+            "inspire"
+          ],
+          "category": "inspire",
+          "language": "en",
+          "date": "2020-05-31",
+          "permalink": "https://theysaidso.com/quote/jm-power-if-you-want-to-make-your-dreams-come-true-the-first-thing-you-have-to-d",
+          "id": "ITpzQAy0WOMy0rJZqbi6rQeF",
+          "background": "https://theysaidso.com/img/qod/qod-inspire.jpg",
+          "title": "Inspiring Quote of the day"
+        }
+      ]
+    },
+    "baseurl": "https://theysaidso.com",
+    "copyright": {
+      "year": 2022,
+      "url": "https://theysaidso.com"
+    }
   }
+]
 }
